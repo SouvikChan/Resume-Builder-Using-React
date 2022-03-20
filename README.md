@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Link: https://resume-builder-schan.netlify.app/
+Link: https://resume-builder-souvik.netlify.app/
 
 Images: ![image](https://user-images.githubusercontent.com/89825678/159178463-81804781-7a77-48b0-9e38-08246c0be9da.png)
 ![image](https://user-images.githubusercontent.com/89825678/159178487-f2cfc717-da38-450f-8e2f-36dcb8970d5b.png)
